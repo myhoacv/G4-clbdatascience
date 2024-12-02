@@ -1,0 +1,3 @@
+Quy trình làm việc với GitHub
+
+Mở máy -> Fetch Origin -> Pull Origin(Nếu có) -> Thực hiện code bình thường -> Đặt tên cho Summary sau khi code xong -> Commit to main -> Pull Origin
