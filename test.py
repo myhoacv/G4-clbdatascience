@@ -16,4 +16,5 @@ print(df['Tên'])
 
 # Tính trung bình điểm
 print("Điểm trung bình:", df['Điểm'].mean())
-print("Thien_dep_trai")
+print("Quang Dũng")
+
