@@ -1,3 +1,3 @@
 a = 5
 b = 1
-print(a + b * 7)
+print(a + b * 6)
