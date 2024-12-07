@@ -1,3 +1,3 @@
-a=5
-b=1
-print(a+b*2)
+a = 5
+b = 1
+print(a + b + 7 * a)
